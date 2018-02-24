@@ -1,3 +1,3 @@
 # git-practice
-this is dev code
-new code from dev
+start coding at master
+
