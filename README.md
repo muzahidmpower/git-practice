@@ -1,3 +1,2 @@
 # git-practice
-this is dev code
-Some new code added at master
+cleanup at master
