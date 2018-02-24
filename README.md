@@ -1,2 +1,4 @@
 # git-practice
-this is master branch code
+this is dev code
+This is DEV branch commit
+Added a commit to test Git Revert
