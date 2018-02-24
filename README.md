@@ -1,2 +1,2 @@
 # git-practice
-cleanup at master
+start coding at master
